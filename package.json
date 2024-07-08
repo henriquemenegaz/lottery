@@ -4,7 +4,7 @@
   "description": "Lottery project with solidity",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --exit"
   },
   "keywords": [],
   "author": "",
